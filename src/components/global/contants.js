@@ -14,7 +14,8 @@ const KEY_TO_NOTE = {
     n: 'a',
     j: 'bf',
     b: 'g',
-    m: 'b'
+    m: 'b',
+    x: 'i'
 }
 
 const NOTE_TO_KEY = {
